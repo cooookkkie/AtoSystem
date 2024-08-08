@@ -3,3 +3,4 @@ C:MyWrokspaceGit_CloneAtoSystemAdoNetWindowbinDebugGroupDocs.Conversion.dll filt
 C:MyWrokspaceGit_CloneAtoSystemGroupDocs.Conversion.dll filter=lfs diff=lfs merge=lfs -text
 AdoNetWindowbinDebugGroupDocs.Conversion.dll filter=lfs diff=lfs merge=lfs -text
 GroupDocs.Conversion.dll filter=lfs diff=lfs merge=lfs -text
+MyWinFormSetup.msi filter=lfs diff=lfs merge=lfs -text
