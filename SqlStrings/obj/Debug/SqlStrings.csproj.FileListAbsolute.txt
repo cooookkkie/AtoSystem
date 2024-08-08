@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\bin\Debug\SqlStrings.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\bin\Debug\SqlStrings.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\obj\Debug\SqlStrings.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\obj\Debug\SqlStrings.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\obj\Debug\SqlStrings.csproj.CopyComplete
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\obj\Debug\SqlStrings.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\SqlStrings\obj\Debug\SqlStrings.pdb

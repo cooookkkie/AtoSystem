@@ -1,0 +1,4 @@
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\obj\Debug\AdoNetWindow.Model.dll
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\obj\Debug\AdoNetWindow.Model.pdb
