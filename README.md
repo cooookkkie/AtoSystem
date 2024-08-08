@@ -1,2 +1,0 @@
-# AtoSystem
-Ato trading system
