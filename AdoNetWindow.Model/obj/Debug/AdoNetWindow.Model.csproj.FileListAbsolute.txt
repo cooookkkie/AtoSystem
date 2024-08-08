@@ -1,0 +1,78 @@
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+X:\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+X:\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+Y:\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+Y:\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+Y:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+Y:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+Y:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb
+Y:\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.AssemblyReference.cache
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.dll
+C:\Users\ato30\Desktop\AdoNetWindow\AdoNetWindow.Model\obj\Debug\AdoNetWindow.Model.pdb

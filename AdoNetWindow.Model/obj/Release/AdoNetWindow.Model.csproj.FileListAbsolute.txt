@@ -1,0 +1,5 @@
+X:\AdoNetWindow\AdoNetWindow.Model\bin\Release\AdoNetWindow.Model.dll
+X:\AdoNetWindow\AdoNetWindow.Model\bin\Release\AdoNetWindow.Model.pdb
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Release\AdoNetWindow.Model.csproj.CoreCompileInputs.cache
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Release\AdoNetWindow.Model.dll
+X:\AdoNetWindow\AdoNetWindow.Model\obj\Release\AdoNetWindow.Model.pdb
