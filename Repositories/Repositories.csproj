@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB0335A2-C47D-457B-9E36-FD50D22879E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Repositories</RootNamespace>
+    <AssemblyName>Repositories</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Company\CompanyAlarmRepository.cs" />
+    <Compile Include="Company\CompanyFinanceRepository.cs" />
+    <Compile Include="Company\CompanyGroupRepository.cs" />
+    <Compile Include="Company\ICompanyAlarmRepository.cs" />
+    <Compile Include="Company\ICompanyFinanceRepository.cs" />
+    <Compile Include="Company\ICompanyGroupRepository.cs" />
+    <Compile Include="Company\INotSendFaxRepository.cs" />
+    <Compile Include="Company\NotSendFaxRepository.cs" />
+    <Compile Include="Config\AuthorityRepository.cs" />
+    <Compile Include="Config\IAuthorityRepository.cs" />
+    <Compile Include="SEAOVER\PriceComparison\IPriceComparisonTempRepository.cs" />
+    <Compile Include="SEAOVER\PriceComparison\PriceComparisonTempRepository.cs" />
+    <Compile Include="Users\AnnualRepository.cs" />
+    <Compile Include="Calender\FavoriteMenuRepository.cs" />
+    <Compile Include="Users\IAnnualRepository.cs" />
+    <Compile Include="Calender\IFavoriteMenuRepository.cs" />
+    <Compile Include="Common\GroupItemRepository.cs" />
+    <Compile Include="Common\IGroupItemRepository.cs" />
+    <Compile Include="Company\CompanyRecoveryRepository.cs" />
+    <Compile Include="Company\ICompanyRecoveryRepository.cs" />
+    <Compile Include="Config\DepartmentRepository.cs" />
+    <Compile Include="Config\IDepartmentRepository.cs" />
+    <Compile Include="ContractRecommendation\ContractRecommendationRepository.cs" />
+    <Compile Include="ContractRecommendation\IContractRecommendationRepository.cs" />
+    <Compile Include="Domestic\DomesticRepository.cs" />
+    <Compile Include="Domestic\IDomesticRepository.cs" />
+    <Compile Include="Group\GroupRepository.cs" />
+    <Compile Include="Group\IGroupRepository.cs" />
+    <Compile Include="HandlingProduct\BookmarkRepository.cs" />
+    <Compile Include="Common\CommonRepository.cs" />
+    <Compile Include="OverseaManufacturing\IOverseaManufacturingRepository.cs" />
+    <Compile Include="OverseaManufacturing\OverseaManufacturingRepository.cs" />
+    <Compile Include="Pending\ArrivalRepository.cs" />
+    <Compile Include="Pending\IArrivalRepository.cs" />
+    <Compile Include="Pending\IPaymentRepository.cs" />
+    <Compile Include="Pending\PaymentRepository.cs" />
+    <Compile Include="Company\CompanyRepository.cs" />
+    <Compile Include="HandlingProduct\FormChangedDataRepository.cs" />
+    <Compile Include="HandlingProduct\IBookmarkRepository.cs" />
+    <Compile Include="Common\ICommonRepository.cs" />
+    <Compile Include="Company\ICompanyRepository.cs" />
+    <Compile Include="HandlingProduct\IFormChangedDataRepository.cs" />
+    <Compile Include="Calender\ILoanRepository.cs" />
+    <Compile Include="RecoveryPrincipal\IRecoveryPrincipalPriceRepository.cs" />
+    <Compile Include="RecoveryPrincipal\RecoveryPrincipalPriceRepository.cs" />
+    <Compile Include="SaleProduct\IincomeProductRepository.cs" />
+    <Compile Include="SaleProduct\IncomeProductRepository.cs" />
+    <Compile Include="SaleProduct\IProductExcludedSalesRepository.cs" />
+    <Compile Include="SaleProduct\ProductExcludedSalesRepository.cs" />
+    <Compile Include="SalesPartner\DailyBusinessRepository.cs" />
+    <Compile Include="SalesPartner\IDailyBusinessRepository.cs" />
+    <Compile Include="SalesPartner\ISalesPartnerRepository.cs" />
+    <Compile Include="SalesPartner\SalesPartnerRepository.cs" />
+    <Compile Include="SEAOVER\HideRepository.cs" />
+    <Compile Include="SEAOVER\IHideRepository.cs" />
+    <Compile Include="SEAOVER\PriceComparison\IPriceComparisonRepository.cs" />
+    <Compile Include="Product\IProductOtherCostRepository.cs" />
+    <Compile Include="PurchaseProduct\IPurchasePriceRepository.cs" />
+    <Compile Include="Product\IProductGroupRepository.cs" />
+    <Compile Include="SEAOVER\IRecoveryPrincipalRepository.cs" />
+    <Compile Include="Pending\IShippingRepository.cs" />
+    <Compile Include="Calender\LoanRepository.cs" />
+    <Compile Include="SEAOVER\ISeaoverCompanyRepository.cs" />
+    <Compile Include="SEAOVER\IStockLimitRepository.cs" />
+    <Compile Include="SEAOVER\IStockRepository.cs" />
+    <Compile Include="SEAOVER\PriceComparison\PriceComparisonRepository.cs" />
+    <Compile Include="Product\ProductOtherCostRepository.cs" />
+    <Compile Include="PurchaseProduct\PurchasePriceRepository.cs" />
+    <Compile Include="Product\ProductGroupRepository.cs" />
+    <Compile Include="SEAOVER\Purchase\IPurchaseRepository.cs" />
+    <Compile Include="SEAOVER\Purchase\PurchaseRepository.cs" />
+    <Compile Include="SEAOVER\RecoveryPrincipalRepository.cs" />
+    <Compile Include="SEAOVER\Sales\ISalesRepository.cs" />
+    <Compile Include="SEAOVER\Sales\SalesRepository.cs" />
+    <Compile Include="SEAOVER\SeaoverCompanyRepository.cs" />
+    <Compile Include="SEAOVER\SeaoverRepository.cs" />
+    <Compile Include="SEAOVER\ISeaoverRepository.cs" />
+    <Compile Include="Inspection\IinspectionRepository.cs" />
+    <Compile Include="MemoArrive\IMemoArriveRepository.cs" />
+    <Compile Include="Inspection\InspectionRepository.cs" />
+    <Compile Include="MemoArrive\MemoArriveRepository.cs" />
+    <Compile Include="Pending\FixedCostRepository.cs" />
+    <Compile Include="SEAOVER\StockLimitRepository.cs" />
+    <Compile Include="SEAOVER\StockRepository.cs" />
+    <Compile Include="Task\ITaskRepository.cs" />
+    <Compile Include="Task\TaskRepository.cs" />
+    <Compile Include="Users\ConfigRepository.cs" />
+    <Compile Include="Users\IConfigRepository.cs" />
+    <Compile Include="Pending\IFixedCostRepository.cs" />
+    <Compile Include="Calender\MemoRepository.cs" />
+    <Compile Include="Pending\CustomsRepository.cs" />
+    <Compile Include="Calender\IMemoRepository.cs" />
+    <Compile Include="Pending\ICustomsRepository.cs" />
+    <Compile Include="Users\IUsersRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pending\ShippingRepository.cs" />
+    <Compile Include="Users\UsersRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdoNetWindow.Model\AdoNetWindow.Model.csproj">
+      <Project>{50470277-3344-45B0-B957-C99EC0B8CF7E}</Project>
+      <Name>AdoNetWindow.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppConfiguration\AppConfiguration.csproj">
+      <Project>{95167E1C-EB35-439E-A076-9278319DC932}</Project>
+      <Name>AppConfiguration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Libs\Libs.csproj">
+      <Project>{41B2D3D2-EA4B-49AB-9A2D-7FE8EF41F436}</Project>
+      <Name>Libs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

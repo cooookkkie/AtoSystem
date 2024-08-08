@@ -1,0 +1,2 @@
+X:\AdoNetWindow\Repositories\obj\Release\Repositories.csproj.AssemblyReference.cache
+X:\AdoNetWindow\Repositories\obj\Release\Repositories.csproj.CoreCompileInputs.cache

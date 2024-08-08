@@ -1,0 +1,452 @@
+C:\Users\user\source\repos\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Zstandard.Net.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+C:\Users\user\source\repos\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Repositories.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Repositories.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Libs.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Zstandard.Net.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Libs.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.dll
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.pdb
+C:\Users\user\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Repositories.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Libs.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Zstandard.Net.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Memory.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Libs.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Memory.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.dll
+C:\Users\Administrator\source\repos\AdoNetWindow2\Repositories\obj\Debug\Repositories.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Repositories.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Repositories.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Libs.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Zstandard.Net.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Renci.SshNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\System.Memory.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Libs.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\System.Memory.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\obj\Debug\Repositories.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\Repositories\obj\Debug\Repositories.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Zstandard.Net.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Renci.SshNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\MySql.Data.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+Z:\아토무역\무역\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+Z:\아토무역\무역\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+Z:\아토무역\무역\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+Z:\아토무역\무역\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+Z:\아토무역\무역\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+C:\Users\아토토\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Repositories.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Repositories.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Libs.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Newtonsoft.Json.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Memory.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Libs.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Libs.dll.config
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Newtonsoft.Json.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Memory.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Buffers.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토100\Desktop\2022-08-10\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\아토100\Desktop\2022-08-10\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\아토100\Desktop\2022-08-10\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\아토100\Desktop\2022-08-10\Repositories\obj\Debug\Repositories.dll
+C:\Users\아토100\Desktop\2022-08-10\Repositories\obj\Debug\Repositories.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Repositories.dll.config
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Repositories.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Repositories.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\AppConfiguration.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Libs.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Newtonsoft.Json.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Google.Protobuf.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\ZstdNet.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Memory.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Hash.xxHash.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Buffers.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\AppConfiguration.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Libs.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Libs.dll.config
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Newtonsoft.Json.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\Google.Protobuf.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Memory.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Compression.LZ4.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\K4os.Hash.xxHash.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Buffers.xml
+C:\MyWrokspace\2022-08-10\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\MyWrokspace\2022-08-10\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\MyWrokspace\2022-08-10\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\MyWrokspace\2022-08-10\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\MyWrokspace\2022-08-10\Repositories\obj\Debug\Repositories.dll
+C:\MyWrokspace\2022-08-10\Repositories\obj\Debug\Repositories.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Repositories.dll.config
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Libs.dll.config
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\MyWrokspace\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\MyWrokspace\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\MyWrokspace\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\MyWrokspace\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+C:\MyWrokspace\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\Repositories.dll.config
+X:\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+X:\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+X:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+X:\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+X:\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.dll
+X:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+X:\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+X:\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+X:\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+X:\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+X:\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+X:\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+X:\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+X:\AdoNetWindow\Repositories\bin\Debug\Libs.dll.config
+X:\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.xml
+X:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+X:\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+X:\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+X:\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+X:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+X:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+X:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+X:\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+X:\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+X:\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\harfbuzz.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Repositories.dll.config
+Y:\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\GroupDocs.Conversion.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Spire.Pdf.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\Microsoft.mshtml.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+Y:\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+Y:\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\Libs.dll.config
+Y:\AdoNetWindow\Repositories\bin\Debug\GroupDocs.Conversion.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\Spire.Pdf.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+Y:\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+Y:\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+Y:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+Y:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+Y:\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+Y:\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+Y:\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\harfbuzz.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Repositories.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Repositories.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Libs.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\GroupDocs.Conversion.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Spire.Pdf.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\ZstdNet.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Microsoft.mshtml.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Memory.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Buffers.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\AdoNetWindow.Model.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\AppConfiguration.dll.config
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Libs.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Libs.dll.config
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\GroupDocs.Conversion.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Spire.Pdf.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.pdb
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\Google.Protobuf.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Memory.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Buffers.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.dll
+C:\Users\ato30\Desktop\AdoNetWindow\Repositories\obj\Debug\Repositories.pdb
