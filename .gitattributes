@@ -8,3 +8,4 @@ GroupDocs.Conversion1.dll filter=lfs diff=lfs merge=lfs -text
 GroupDocs.Conversion2.dll filter=lfs diff=lfs merge=lfs -text
 GroupDocs.Conversion3.dll filter=lfs diff=lfs merge=lfs -text
 GroupDocs.Conversion4.dll filter=lfs diff=lfs merge=lfs -text
+GroupDocs.Conversion.23.3.1.nupkg filter=lfs diff=lfs merge=lfs -text
