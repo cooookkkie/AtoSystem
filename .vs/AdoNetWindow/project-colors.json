@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26c5a38b-e28d-4be5-bfa6-e83b45912818": {
+      "ProjectGuid": "26c5a38b-e28d-4be5-bfa6-e83b45912818",
+      "DisplayName": "AdoNetWindow",
+      "ColorIndex": 0
+    },
+    "41b2d3d2-ea4b-49ab-9a2d-7fe8ef41f436": {
+      "ProjectGuid": "41b2d3d2-ea4b-49ab-9a2d-7fe8ef41f436",
+      "DisplayName": "Libs",
+      "ColorIndex": 1
+    },
+    "95167e1c-eb35-439e-a076-9278319dc932": {
+      "ProjectGuid": "95167e1c-eb35-439e-a076-9278319dc932",
+      "DisplayName": "AppConfiguration",
+      "ColorIndex": 2
+    },
+    "50470277-3344-45b0-b957-c99ec0b8cf7e": {
+      "ProjectGuid": "50470277-3344-45b0-b957-c99ec0b8cf7e",
+      "DisplayName": "AdoNetWindow.Model",
+      "ColorIndex": 3
+    },
+    "041b0256-fc87-4e5d-aea7-4c420a9fc5bf": {
+      "ProjectGuid": "041b0256-fc87-4e5d-aea7-4c420a9fc5bf",
+      "DisplayName": "AdoNet",
+      "ColorIndex": 4
+    },
+    "bb0335a2-c47d-457b-9e36-fd50d22879e2": {
+      "ProjectGuid": "bb0335a2-c47d-457b-9e36-fd50d22879e2",
+      "DisplayName": "Repositories",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
