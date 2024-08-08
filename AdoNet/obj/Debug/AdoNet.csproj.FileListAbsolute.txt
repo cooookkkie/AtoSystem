@@ -1,0 +1,271 @@
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\MySql.Data.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Buffers.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Memory.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\ZstdNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\MySql.Data.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Buffers.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Memory.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow2\AdoNet\obj\Debug\AdoNet.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+C:\Users\아토30\Desktop\BACKUP\C# TEST\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\아토무역\무역\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+Z:\아토무역\무역\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+Z:\아토무역\무역\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+Z:\아토무역\무역\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+Z:\아토무역\무역\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\아토토\Desktop\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\AdoNet.dll.config
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\AdoNet.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\MySql.Data.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Buffers.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Memory.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\ZstdNet.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\MySql.Data.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Buffers.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Memory.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\obj\Debug\AdoNet.dll
+C:\Users\아토100\Desktop\2022-08-10\AdoNet\obj\Debug\AdoNet.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyWrokspace\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+C:\MyWrokspace\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\MyWrokspace\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+C:\MyWrokspace\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+C:\MyWrokspace\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+X:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+X:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+X:\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+X:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+X:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+X:\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
+X:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+X:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+X:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+X:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+\\atotrading.synology.me@SSL@6009\DavWWWRoot\Solution\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+Y:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll.config
+Y:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\AdoNet.pdb
+Y:\AdoNetWindow\AdoNet\bin\Debug\BouncyCastle.Crypto.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Memory.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\Ubiety.Dns.Core.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\ZstdNet.dll
+Y:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.pdb
+Y:\AdoNetWindow\AdoNet\bin\Debug\Google.Protobuf.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\K4os.Hash.xxHash.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\MySql.Data.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Buffers.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Memory.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Numerics.Vectors.xml
+Y:\AdoNetWindow\AdoNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+Y:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.CopyComplete
+Y:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.dll
+Y:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.pdb
+Y:\AdoNetWindow\AdoNet\obj\Debug\AdoNet.csproj.AssemblyReference.cache
