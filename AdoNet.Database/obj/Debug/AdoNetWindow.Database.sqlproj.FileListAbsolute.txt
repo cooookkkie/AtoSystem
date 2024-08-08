@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\AdoNetWindow\AdoNet.Database\bin\Debug\AdoNetWindow.Database.dacpac
+C:\Users\user\source\repos\AdoNetWindow\AdoNet.Database\bin\Debug\AdoNet.Database.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet.Database\bin\Debug\AdoNet.Database.pdb
+C:\Users\user\source\repos\AdoNetWindow\AdoNet.Database\obj\Debug\AdoNet.Database.dll
+C:\Users\user\source\repos\AdoNetWindow\AdoNet.Database\obj\Debug\AdoNet.Database.pdb
