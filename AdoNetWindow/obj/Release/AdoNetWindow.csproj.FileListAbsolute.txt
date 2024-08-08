@@ -1,0 +1,8 @@
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow.csproj.AssemblyReference.cache
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow.csproj.SuggestedBindingRedirects.cache
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow.exe.config
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow.csproj.ResolveComReference.cache
+X:\AdoNetWindow\AdoNetWindow\obj\Release\Common\NotRateProcess\Loading.g.cs
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow_Content.g.cs
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow_MarkupCompile.cache
+X:\AdoNetWindow\AdoNetWindow\obj\Release\AdoNetWindow_MarkupCompile.lref
